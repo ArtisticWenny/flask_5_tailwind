@@ -2,3 +2,7 @@
 
 
 ### Your design rationale and principles followed.
+- Create App.py File
+- Import necessary packages
+- Created database with db.py
+- 
