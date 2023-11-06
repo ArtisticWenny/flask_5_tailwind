@@ -10,3 +10,6 @@
 - Create Storage
 - Create Container
 - Create CDN
+
+![Picture](images/Azure Storage.png "Text to show on mouseover")
+
