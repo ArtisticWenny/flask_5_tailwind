@@ -10,3 +10,4 @@
 - Create Storage
 - Create Container
 - Create CDN
+- Upload Video to CDN
