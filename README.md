@@ -12,7 +12,7 @@
 - Create CDN
 - Upload Video to CDN
 
-
+#### link to images of steps completed
 https://github.com/ArtisticWenny/flask_5_tailwind/tree/master/images
 
 ### Cloud Deployment
