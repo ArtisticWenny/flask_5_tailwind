@@ -11,3 +11,8 @@
 - Create Container
 - Create CDN
 - Upload Video to CDN
+
+
+### Cloud Deployment
+- Type in "python app.py" to run
+- Received an error code unable to run flask app 
