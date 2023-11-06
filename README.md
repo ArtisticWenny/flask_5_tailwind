@@ -11,5 +11,5 @@
 - Create Container
 - Create CDN
 
-![Picture](images/Azure Storage.png "Text to show on mouseover")
-
+<b> Step 1. Create a storage account on Azure
+![Picture](images/Azure_Storage.png "Text to show on mouseover")
