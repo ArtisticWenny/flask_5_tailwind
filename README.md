@@ -17,4 +17,5 @@ https://github.com/ArtisticWenny/flask_5_tailwind/tree/master/images
 
 ### Cloud Deployment
 - Type in "python app.py" to run
-- Received an error code unable to run flask app 
+- Received an error code unable to run flask app
+- Error "Template not found"
