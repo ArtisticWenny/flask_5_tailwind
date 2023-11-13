@@ -19,3 +19,4 @@ https://github.com/ArtisticWenny/flask_5_tailwind/tree/master/images
 - Type in "python app.py" to run
 - Received an error code unable to run flask app
 - Error "Template not found"
+- Resolved error by correcting "Template" into "template"
